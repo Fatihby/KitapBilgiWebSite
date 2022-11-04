@@ -1,0 +1,115 @@
+﻿body 
+{
+    background-color:White;
+    width:auto;
+    height:auto;
+    background-position:center top;
+    background-attachment:fixed;
+    margin:0;
+    padding:0;
+}
+
+#tutucu
+    {
+        font-size:25px;
+        text-align:center;
+        background-position:center top;
+        width:1000px;
+        height:500px;
+        background-color:White;
+        margin:0px auto;
+    }
+    #tutucu h1
+    {
+        font-size:50px;
+        
+        color:#ff984b;
+    }
+    
+ #usttaraf
+    {
+        width:1920px;
+        height:62px;
+        background-color:#0b0047;
+        color:white;
+        text-align:center;
+        font-family:Comic Sans MS;
+        font-size:30px;
+        line-height:27px;
+    }
+#menu
+    {
+        font-size:25px;
+        width:auto;
+        height:30px;
+    }  
+    ul
+    {
+        margin:0;
+        padding:0;
+        list-style-type:none;
+    }  
+    ul li 
+    {
+        font-size:50px;
+        float:left;
+        width:150px;
+        height:25px;
+        margin-left:40px;
+        margin-right:40px;
+        text-align:center;
+    }
+    ul li a 
+    {
+        width:150px;
+        height:38px;
+        display:block;
+        text-align:center;
+        text-decoration:none;
+        font-family:Trebuchet MS;
+        color:Black;
+    }  
+    ul li a:hover
+    {
+        color:Red;
+    }
+    #icerik
+    {
+        text-align:center;
+        font-size:30px;
+        background-position:center;
+        width:auto;
+        height:1000px;
+        color:Black;
+    }
+    #icerik h1
+    {
+        font-size:55px;
+        text-align:center;
+        color:#fd750e;
+        font-family:Tekton Pro;
+    }
+    
+  
+    #icerik h2
+    {
+        font-size:40px;
+        text-align:center;
+        color:Red;
+        font-family:Tekton Pro;
+    }
+    #metinkutusu
+    {
+      font-size:25px;
+      width:1000px;
+      height:auto;
+      background-position:center;  
+      text-align:center;
+    }
+    
+    #forum
+    {
+        background-position:150px;
+        text-align:left;
+        margin-right:auto;
+    }
